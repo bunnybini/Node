@@ -16,8 +16,8 @@
   "license": "ISC",
   "dependencies": {
     "akaneko": "^5.2.8",
-    "emoji-love-letter": "^2.0.0",
     "express": "^4.18.2",
+    "node-emoji": "^2.1.3",
     "nodemon": "^3.0.1",
     "txtgen": "^3.0.6"
   },
