@@ -15,11 +15,15 @@
   "author": "Sobi",
   "license": "ISC",
   "dependencies": {
+    "@codexteam/icons": "^0.3.0",
     "akaneko": "^5.2.8",
     "emoji-js": "^3.8.0",
     "express": "^4.18.2",
+    "hyper-aww": "^1.1.0",
     "node-emoji": "^2.1.3",
     "nodemon": "^3.0.1",
+    "random-pwd-gen": "^1.1.2",
+    "randomcolor": "^0.6.2",
     "txtgen": "^3.0.6"
   },
   "type": "module"
